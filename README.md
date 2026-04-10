@@ -82,10 +82,10 @@ python main.py
 
 ### 🚗 Vehicle Speed Detection
 
-![Speed Detection 1](vehicle_speed_detection/outputs/Speed_detection\(1\).png)
-![Speed Detection 2](vehicle_speed_detection/outputs/Speed_detection\(2\).png)
-![Speed Detection 3](vehicle_speed_detection/outputs/Speed_detection\(3\).png)
-![Speed Detection 4](vehicle_speed_detection/outputs/Speed_detection\(4\).png)
+![Speed Detection 1](vechile_speed_detection\outputs\Speed_detection(1).png)
+![Speed Detection 2](vechile_speed_detection\outputs\Speed_detection(2).png)
+![Speed Detection 3](vechile_speed_detection\outputs\Speed_detection(3).png)
+![Speed Detection 4](vechile_speed_detection\outputs\Speed_detection(4).png)
 
 ---
 
