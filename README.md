@@ -2,7 +2,7 @@
 
 A modular and scalable **Computer Vision system** built using **YOLOv8** for real-time object detection, tracking, and vehicle speed estimation.
 
-This project demonstrates practical applications of deep learning in **traffic monitoring, surveillance, and intelligent systems**.
+This project demonstrates real-world applications of deep learning in **traffic monitoring, surveillance, and intelligent systems**.
 
 ---
 
@@ -46,7 +46,7 @@ Multi-Task-Computer-Vision-Suite-using-yolov8/
 ├── output/
 │   ├── output.avi
 │
-├── vehicle_speed_detection/
+├── vechile_speed_detection/
 │   └── outputs/
 │       ├── Speed_detection(1).png
 │       ├── Speed_detection(2).png
@@ -77,13 +77,13 @@ jupyter notebook
 ### 🚗 Vehicle Speed Detection
 
 <p align="center">
-  <img src="./vehicle_speed_detection/outputs/Speed_detection(1).png" width="45%"/>
-  <img src="./vehicle_speed_detection/outputs/Speed_detection(2).png" width="45%"/>
+  <img src="./vechile_speed_detection/outputs/Speed_detection(1).png" width="45%"/>
+  <img src="./vechile_speed_detection/outputs/Speed_detection(2).png" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="./vehicle_speed_detection/outputs/Speed_detection(3).png" width="45%"/>
-  <img src="./vehicle_speed_detection/outputs/Speed_detection(4).png" width="45%"/>
+  <img src="./vechile_speed_detection/outputs/Speed_detection(3).png" width="45%"/>
+  <img src="./vechile_speed_detection/outputs/Speed_detection(4).png" width="45%"/>
 </p>
 
 ---
@@ -108,10 +108,10 @@ jupyter notebook
 
 ## 💡 Highlights
 
-* Built a **multi-project modular architecture**
+* Designed a **modular multi-project architecture**
 * Implemented **real-time speed estimation using tracking**
-* Utilized **pretrained YOLOv8 models for efficient inference**
-* Structured outputs for better visualization and scalability
+* Used **pretrained YOLOv8 models for efficient inference**
+* Structured outputs for scalability and clarity
 
 ---
 
@@ -124,4 +124,5 @@ B.Tech (Artificial Intelligence)
 
 ## ⭐ Note
 
-Ensure that all image paths are correct and folder names are case-sensitive while running the project or viewing outputs on GitHub.
+> Folder name is currently **vechile_speed_detection** (intentional for compatibility with current project structure).
+> Make sure paths match exactly (case-sensitive) when viewing on GitHub.
